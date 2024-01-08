@@ -1,4 +1,4 @@
-# Ad-Hoc-Insights--Consumer-Goods-Domain
+# Ad-Hoc Insights-Consumer Goods Domain
 
 Domain: Consumer Goods
 Tool: SQL
