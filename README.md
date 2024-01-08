@@ -1,6 +1,7 @@
 # Ad-Hoc Insights-Consumer Goods Domain
 
 Domain: Consumer Goods
+
 Tool: SQL
 
 # Project Overview
