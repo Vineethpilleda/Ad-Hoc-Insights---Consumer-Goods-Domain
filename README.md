@@ -2,7 +2,7 @@
 
 Domain: Consumer Goods
 
-Tool: SQL
+Tool: MySQL
 
 # Project Overview
 
